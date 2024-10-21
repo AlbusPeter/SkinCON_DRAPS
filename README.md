@@ -51,3 +51,14 @@ After you finish pretraining different base models, you can evaluate DRAPS by ru
 ## Citation(TBD)
 
 If you find our work inspiring or use our codebase in your research, please consider giving a star ⭐ and a citation.
+
+```bibtex
+@inproceedings{ren2024skincon,
+  title={SkinCON: Towards consensus for the uncertainty of skin cancer sub-typing through distribution regularized adaptive predictive sets (DRAPS)},
+  author={Ren, Zhihang and Li, Yunqi and Li, Xinyu and Xie, Xinrong and Duhaime, Erik P and Fang, Kathy and Chakraborti, Tapabrata and Guo, Yunhui and Yu, Stella X and Whitney, David},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={405--415},
+  year={2024},
+  organization={Springer}
+}
+```
